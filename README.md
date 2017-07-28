@@ -3,4 +3,4 @@ Java Virtual Machine Specification Java SE 8-zh</br>
 已翻译章节</br>
 
 翻译认领</br>
-[x]1.1 A Bit of Histroy-ylf-170728
+- [x] 1.1 A Bit of Histroy-ylf-170728
