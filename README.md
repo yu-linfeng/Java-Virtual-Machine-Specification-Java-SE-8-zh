@@ -8,7 +8,7 @@ Java Virtual Machine Specification Java SE 8-zh</br>
 - [ ] Preface to the Java SE 8 Edition
 - [ ] 1. Introduction
 - [x] ~~1.1. A Bit of History~~ ylf-170728
-- [ ] 1.2. The Java Virtual Machine
+- [x] ~~1.2. The Java Virtual Machine~~ ylf-170730
 - [ ] 1.3. Organization of the Specification
 - [ ] 1.4. Notation
 - [ ] 1.5. Feedback
