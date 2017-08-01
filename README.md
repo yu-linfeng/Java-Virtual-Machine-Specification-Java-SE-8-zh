@@ -1,6 +1,7 @@
 Java Virtual Machine Specification Java SE 8-zh</br>
 **仅供交流学习，请勿用作商业用途** </br>
 已翻译章节</br>
+- [1.1. A Bit of History](https://github.com/yu-linfeng/Java-Virtual-Machine-Specification-Java-SE-8-zh/blob/master/1/1.1.A_Bit_of_History.md)</br>
 
 翻译认领</br>
 - [ ] The Java® Virtual Machine Specification
